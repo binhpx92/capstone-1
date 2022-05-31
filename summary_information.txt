@@ -1,0 +1,7 @@
+1. Github link: https://github.com/binhpx92/capstone-1
+2. Link youtube demo: https://youtu.be/S0YheiVRrK4
+3. Link vercel: https://capstone-1-phamxuanbinh-nguyenthanhdanh-bootcamp30.vercel.app/
+4. Thông tin nhóm: Phạm Xuân Bình, Nguyễn Thanh Danh
+5. Phân chia công việc:
+Bình: Home, About, Services page
+Danh: Blog posts, Blog single, Contact page
